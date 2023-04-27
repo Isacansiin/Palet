@@ -97,7 +97,7 @@ for key, group in grouped_data.items():
     if twenty_kapasite != None:
         print("20' yüklemesi için:")
         print()
-        gecici_sayi_kumesi = sayi_kumesi_a.copy()
+        
         while len(gecici_sayi_kumesi) > 0:
             # sayı kümesindeki sayıları büyükten küçüğe sıralama
             print("Geçiciiiiiiiii",gecici_sayi_kumesi)
